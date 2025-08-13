@@ -1,0 +1,41 @@
+/* .head{
+    height:100px;
+    width: 100px;
+    background-color:aqua;
+    border:1px solid black;
+    margin:20px;
+    /* text-align:center; 
+    display:flex;
+    justify-content:center;
+    align-items: center;
+
+
+} */
+
+
+/* #head{
+ height:200px;
+ width:100px;
+ background-color: blue;
+ color:white;
+border:2px solid black;
+} */
+
+
+
+/* .myclass{
+    color:blue;
+}
+.newclass{
+    background-color:green;
+} */
+
+
+
+div{
+    height:100px;
+    width:100px;
+   color:white;
+   background-color: violet;
+   border:2px solid black;
+}
